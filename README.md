@@ -7,7 +7,7 @@ Store Analytics: Mahendra-Sales-Store-Annual-Report
 
 ## 2. short Discription / purpose
 welcome to Mahendra sales store project
-The dataet contain data of a shopkeeper which sales there online product in various state of india.
+The dataset contain data of a shopkeeper which sales there online product in various state of india.
 
 ---
 
