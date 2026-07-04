@@ -1,29 +1,109 @@
-# Mahendra-Sales-Store-Annual-Report
-## 1. Project Title / Headline
-A concise, descriptive name for the dashboard.
-Store Analytics: Mahendra-Sales-Store-Annual-Report
+# 📈 Mahendra Sales Store Annual Report Dashboard
+
+## 📌 Project Overview
+The **Mahendra Sales Store Annual Report Dashboard** is an interactive Excel dashboard designed to analyze annual sales performance across different categories, states, sales channels, customer demographics, and order statuses.
+
+The dashboard helps stakeholders identify sales trends, customer behavior, and business opportunities through visual analytics.
 
 ---
 
-## 2. short Discription / purpose
-welcome to Mahendra sales store project
-The dataset contain data of a shopkeeper which sales there online product in various state of india.
+## 🎯 Objectives
+- Analyze monthly sales and order trends.
+- Identify top-performing states.
+- Understand customer demographics by age and gender.
+- Evaluate sales distribution across different sales channels.
+- Monitor order fulfillment and cancellation rates.
 
 ---
 
-## 3. Insights that we getting
-• Women are more likely to buy compared to men (65%)
-• Maharastra, Karnataka and uttar pradesh are the top 3 states (35%)
-• Adult age group (30-49 yrs) is max contributing (50%)
-• Amazon, Flipkart and Myntra channels are max contributing (80%)
+## 🛠 Tools Used
+- **Microsoft Excel**
+  - Pivot Tables
+  - Pivot Charts
+  - Slicers
+  - Conditional Formatting
+  - Dashboard Design
 
 ---
 
-## 4. final conclution to improve sales:
-• Target women customers of age group (30-49 yrs) living in
-• Maharastra, karnataka and uttar pradesh by showing ads/offers/
-• coupons available on Amazon,Flipkart and Myntra
+## 📊 Dashboard Insights
 
-## 5. Screenshots / Demos
+### 1️⃣ Order vs Sales Trend
+- Highest sales were recorded in **March**.
+- Sales gradually declined after August.
+- Orders followed a similar trend as revenue.
+
+### 2️⃣ Order Status Analysis
+| Status | Percentage |
+|--------|-----------|
+| Delivered | 92% |
+| Cancelled | 3% |
+| Returned | 3% |
+| Refunded | 2% |
+
+**Key Insight:**  
+The business maintained an excellent delivery success rate of **92%**.
+
+### 3️⃣ Gender-wise Sales Distribution
+- **Women contributed 64%** of total sales.
+- **Men contributed 36%** of total sales.
+
+**Key Insight:**  
+Female customers are the primary customer segment.
+
+### 4️⃣ Top 5 Performing States
+| State | Sales |
+|-------|-------|
+| Maharashtra | 2.99M |
+| Karnataka | 2.65M |
+| Uttar Pradesh | 2.10M |
+| Telangana | 1.71M |
+| Tamil Nadu | 1.68M |
+
+### 5️⃣ Age Group vs Gender Analysis
+| Age Group | Men | Women |
+|----------|-----|-------|
+| Adult | 14.91% | 33.32% |
+| Senior | 5.72% | 13.31% |
+| Teenager | 9.95% | 22.79% |
+
+**Key Insight:**  
+Adult women represent the largest customer group.
+
+### 6️⃣ Sales Channel Contribution
+| Channel | Contribution |
+|---------|-------------|
+| Amazon | 35% |
+| Myntra | 23% |
+| Flipkart | 22% |
+| Ajio | 6% |
+| Meesho | 5% |
+| Nalli | 5% |
+| Others | 4% |
+
+**Key Insight:**  
+Amazon is the leading sales channel followed by Myntra and Flipkart.
+
+---
+
+## 🎛 Dashboard Filters
+The dashboard includes interactive slicers for:
+- Month
+- Category
+- Sales Channel
+
+These filters allow users to dynamically explore sales performance.
+
+---
+
+## 📌 Business Recommendations
+- Increase marketing efforts targeting female customers.
+- Focus inventory and promotions in Maharashtra and Karnataka.
+- Strengthen partnerships with Amazon, Myntra, and Flipkart.
+- Investigate causes of returns and cancellations to improve customer satisfaction.
+
+---
+
+## 📷 Dashboard Preview
 Show what the dashboard looks like.
 ![Dashboard](https://github.com/ritikraj3001/Mahendra_Sales_Store_Annual_Report_Excel/blob/main/Mahendra%20Sales%20Report.png)
